@@ -24,7 +24,7 @@ module.exports = {
     title: 'All Mediks Club NFT',
     links : {
       opensea : "https://opensea.io/collection/all-mediks-club-nft",
-      discord : "https://discord.com/invite/hfyRXCuc",
+      discord : "https://discord.com/invite/UTv6ya7rPM",
       twitter : "https://twitter.com/AllMediks"
     },
     maxMint: 3500,
